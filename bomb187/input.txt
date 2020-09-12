@@ -1,0 +1,7 @@
+Why make trillions when we could make... billions?
+1 2 4 8 16 32 PrimeDirective
+7 837
+216 4
+5 115
+3 4 6 5 2 1
+22
